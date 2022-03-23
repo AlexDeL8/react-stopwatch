@@ -1,0 +1,10 @@
+@import "./components/stopwatch/stopwatch.css";
+@import "./components/buttons/buttons.css";
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ButtonControls {
+}

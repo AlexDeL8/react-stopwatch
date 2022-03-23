@@ -1,0 +1,26 @@
+button {
+  padding: 10px 20px;
+  margin: 15px;
+  color: white;
+  border-radius: 4px;
+}
+
+button:active {
+  background-color: white;
+  color: black;
+}
+
+.StartButton {
+  background-color: rgb(40, 150, 40);
+  border: solid 2px rgb(40, 150, 40);
+}
+
+.StopButton {
+  background-color: rgb(190, 30, 30);
+  border: solid 2px rgb(190, 30, 30);
+}
+
+.ResetButton {
+  background-color: rgb(100, 100, 100);
+  border: solid 2px rgb(100, 100, 100);
+}
